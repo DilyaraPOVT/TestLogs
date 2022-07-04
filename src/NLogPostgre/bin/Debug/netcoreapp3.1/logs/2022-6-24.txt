@@ -1,0 +1,7 @@
+24.06.2022 22:17:02 # Начало работы логгера
+24.06.2022 22:17:02 # ERROR # Index was outside the bounds of the array.
+24.06.2022 22:17:02 # ERROR # До этого такой ошибки не было. Index was outside the bounds of the array.
+24.06.2022 22:17:02 # SYSTEMINFO # SystemInfo 1 Стажировка
+24.06.2022 22:17:02 # SYSTEMINFO # SystemInfo 2 Программирование
+24.06.2022 22:17:02 # WARNING # Предупреждение
+24.06.2022 22:17:02 # WARNING # Новое предупреждение!
